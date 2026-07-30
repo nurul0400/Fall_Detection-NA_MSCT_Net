@@ -1,5 +1,7 @@
 All Rights Reserved @ MIP Lab, NIT Silchar, Cachar, Assam, India.
 
+Before using and modifying he code, please seek permission from Dr. N.A. Choudhury @ nurul0400@gmail.com
+
 Contributors - Dr. Nurul Amin Choudhury, Gyanda Kaushal and Dr. Badal Soni
 
 
